@@ -11,4 +11,4 @@ Using Style Transfer allows users to apply visual style or appearance of one ima
 NOTE : Use of a GPU is highly recommended during training process
 
 ## Results
-![Output Image](https://github.com/devanshdoshi9/Neural-Style-Transfer/output_image.png)
+![Output Image](https://github.com/devanshdoshi9/Neural-Style-Transfer/blob/master/output_image.PNG)
